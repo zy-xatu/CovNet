@@ -7,7 +7,7 @@
   </div>
 </p>
 
-## :bookmark: Paper
+## :bookmark: manuscript
 Our manuscript has been formally submitted to The Visual Computer journal for peer review and publication consideration.
 
 ## :whale: CheckPoints and Model Files
