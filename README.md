@@ -7,11 +7,12 @@
   </div>
 </p>
 
-## :bookmark:
+## :bookmark: Trainset and Testset
+We put the full results of the test set showed in the paper in a zip file.
 
 
-## :whale: 
-
+## :whale: CheckPoints and Model Files
+We provide all checkpoint
 
 ## :sparkles: Our Test Code
 ## Dependencies and Download
@@ -26,11 +27,15 @@ pip install -r requirements.txt
 ```
 
 ## Download pre-trained weights
-
+Download model weights. Then put them in the models folder. The hierachy is as follows:
 
 
 ## RUN code
-
-
-
+```
+python trian.py
+```
+```
+python detect.py
+```
 ## Acknowledgement
+The dataset and validation set used in our experiment are from
