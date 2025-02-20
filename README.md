@@ -7,9 +7,8 @@
   </div>
 </p>
 
-## :bookmark: Trainset and Testset
-We put the full results of the test set showed in the paper in a zip file.
-
+## :bookmark: Paper
+Our manuscript has been formally submitted to The Visual Computer journal for peer review and publication consideration.
 
 ## :whale: CheckPoints and Model Files
 We provide all checkpoint
