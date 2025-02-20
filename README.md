@@ -32,7 +32,7 @@ Download model weights. Then put them in the models folder. The hierachy is as f
 
 ## RUN code
 ```
-python trian.py
+python train.py
 ```
 ```
 python detect.py
