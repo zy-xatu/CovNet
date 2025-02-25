@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/e810d446-713d-4c1f-9753-045a4853dd8f)
 <p align="center">
 
   <h1 align="center">CovNet: Leveraging Covariance Features for Accurate Infrared Small Target Detection</h1>
