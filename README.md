@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/e810d446-713d-4c1f-9753-045a4853dd8f)
 <p align="center">
 
   <h1 align="center">CovNet: Leveraging Covariance Features for Accurate Infrared Small Target Detection</h1>
@@ -11,7 +11,7 @@
 Our manuscript has been formally submitted to [The Visual Computer](https://link.springer.com/journal/371) journal for peer review and publication consideration.
 
 ## :whale: CheckPoints and Model Files
-We provide all checkpoints and models at [here](https://drive.google.com/drive/folders/1yy_BZMGZuQQVrw21r7qTtZaTkT_AdyU3?usp=drive_link)
+We provide all checkpoints and models at [here](https://drive.google.com/drive/folders/1yy_BZMGZuQQVrw21r7qTtZaTkT_AdyU3?usp=drive_link).
 
 ## :sparkles: Our Test Code
 ## Dependencies and Download
@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 ## Download pre-trained weights
 Download dataset and model weights. Then put them in the folder. The hierachy is as follows:
-
+![image](https://github.com/user-attachments/assets/d99db6fc-53af-42ce-8b2b-e26719bda176)
 
 ## RUN code
 ```
