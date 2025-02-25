@@ -1,0 +1,14 @@
+<annotation>
+	<filename>1356.bmp</filename>
+	<object_num>1</object_num>
+	<size>
+		<width>256</width>
+		<height>256</height>
+	</size>
+	<object>
+		<centerbox>
+			<x>233</x>
+			<y>123</y>
+		</centerbox>
+	</object>
+</annotation>
