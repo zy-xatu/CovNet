@@ -2,7 +2,7 @@
 
   <h1 align="center">CovNet: Leveraging Covariance Features for Accurate Infrared Small Target Detection</h1>
   <div align="center">
-    <img src="video.gif", width="600">
+    <img src="video.gif", width="1200">
   </div>
 </p>
 
